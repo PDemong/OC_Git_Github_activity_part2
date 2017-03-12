@@ -1,2 +1,5 @@
 Moi : Patrick
 Ma soeur : Carine
+Ma femme : Roxana
+Enfant 1 : John
+Enfant 2 : Claire
